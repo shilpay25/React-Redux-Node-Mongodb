@@ -23,7 +23,8 @@ Setting up a new project can always be challenging and time consuming.
 2. Remove the .git directory (if applicable)
 3. Change the information in the package.json file
 4. Change the content in the secret.js and config.js files (optional but recommended)
-5. Start developing your awesome project
+5. Start developing in project 
+
 
 ### Installment
 
