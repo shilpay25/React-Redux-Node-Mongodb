@@ -19,11 +19,11 @@ Setting up a new project can always be challenging and time consuming.
 
 ### How to use?
 
-1. Simply clone or download the project.
+1. Simply clone or download the project 
 2. Remove the .git directory (if applicable)
 3. Change the information in the package.json file
 4. Change the content in the secret.js and config.js files (optional but recommended)
-5. Start developing your awesome project
+5. Start developing awesome project 
 
 ### Installment
 
