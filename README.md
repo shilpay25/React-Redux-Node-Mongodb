@@ -9,7 +9,7 @@ Setting up a new project can always be challenging and time consuming.
  * Redux
  * Node
  * Mongodb
- * Webpack
+ * Webpack.
 
 ### Requirements
 
